@@ -8,8 +8,6 @@
 
 录 · [Raindrops on roses and whiskers on kittens](Lists.md)
 
-</br>
+*于是 · 兔子就这样搬了家*
 
 [Leave a message](Message.md) · [About](About.md)
-
-……兔子就这样搬了家
