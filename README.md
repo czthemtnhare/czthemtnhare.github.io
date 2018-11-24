@@ -8,6 +8,6 @@
 
 录 · [Raindrops on roses](Lists.md)
 
-*于是，兔子就这样搬了家*
+<br \>
 
 [Leave a message](Message.md) · [About](About.md)
