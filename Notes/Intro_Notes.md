@@ -34,4 +34,4 @@ Till I find my way home to you, to you
 ...  
 *Journey* 词曲：Corrinne May 演唱：张韶涵
 
-怎么听都有一种“为赋新词强说愁”的感觉，求替换！
+用歌词首句作为目录标题是我很久以来的习惯，只是这首怎么听都是“为赋新词强说愁”。求替换！

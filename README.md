@@ -8,6 +8,6 @@
 
 录 · [Raindrops on roses](Lists.md)
 
-<br \>
+...
 
 [Leave a message](Message.md) · [About](About.md)
