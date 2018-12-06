@@ -4,6 +4,8 @@
 
 [Intro](Reading/Intro_Reading.md)
 
+[[文件夹·摘录]](Reading.Quote.md)
+
 [论美国的民主](Reading/180822_论美国的民主.md)
 
 [刺杀骑士团长](Reading/180905_刺杀骑士团长.md)
