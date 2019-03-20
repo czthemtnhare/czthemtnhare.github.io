@@ -1,4 +1,4 @@
-# Intro
+## Intro
 
 > It's a long, long journey  
 Till I know where I'm supposed to be  
@@ -34,4 +34,4 @@ Till I find my way home to you, to you
 ...  
 *Journey* 词曲：Corrinne May 演唱：张韶涵
 
-这首怎么听都是“为赋新词强说愁”，有待替换。
+Life is a journey. 又名“为赋新词强说愁”

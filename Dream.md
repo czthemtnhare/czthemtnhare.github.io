@@ -1,6 +1,12 @@
 ## 记梦
 
+<p align="right"><I>Last update: 19/03/19</I></p>
+
 [Intro](Dream/Intro_Dream.md)
+
+[教汉字](Dream/190219_教汉字.md)
+
+[奇暖新玩法](Dream/190213_奇暖新玩法.md)
 
 [零星小梦](Dream/181204_零星小梦.md)
 
