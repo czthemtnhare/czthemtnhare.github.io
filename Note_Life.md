@@ -1,6 +1,8 @@
 ﻿## 流水账
 
-<p align="right"><I>Last update: 19/03/19</I></p>
+<p align="right"><I>Last update: 19/06/22</I></p>
+
+[打包](Life/190620_打包.md)
 
 [西湖牛肉羹](Life/190319_西湖牛肉羹.md)
 

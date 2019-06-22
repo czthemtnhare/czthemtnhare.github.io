@@ -1,10 +1,14 @@
 ## 而知也无涯
 
-<p align="right"><I>Last update: 19/03/19</I></p>
+<p align="right"><I>Last update: 19/06/22</I></p>
 
 [Intro](Note/Intro_Note.md)
 
 [<文件夹·流水账>](Note_Life.md)
+
+[为什么切滚刀块](Note/190620_为什么切滚刀块.md)
+
+[狗咬自己要打疫苗吗](Note/190617_狗咬自己要打疫苗吗.md)
 
 [要自信](Note/190319_要自信.md)
 

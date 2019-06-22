@@ -1,6 +1,6 @@
 ## 读书观影etc.
 
-<p align="right"><I>Last update: 19/03/19</I></p>
+<p align="right"><I>Last update: 19/06/22</I></p>
 
 [Intro](Reading/Intro_Reading.md)
 
