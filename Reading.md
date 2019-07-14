@@ -1,10 +1,12 @@
 ## 读书观影etc.
 
-<p align="right"><I>Last update: 19/06/22</I></p>
+<p align="right"><I>Last update: 19/07/14</I></p>
 
 [Intro](Reading/Intro_Reading.md)
 
 [<文件夹·摘录>](Reading_Quote.md)
+
+[我坐在彼德拉河畔 哭泣 等五本](Reading/190714_我坐在彼德拉河畔_哭泣_等五本.md)
 
 [未来简史](Reading/190319_未来简史.md)
 

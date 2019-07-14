@@ -1,8 +1,14 @@
 ## 记梦
 
-<p align="right"><I>Last update: 19/03/19</I></p>
+<p align="right"><I>Last update: 19/07/14</I></p>
 
 [Intro](Dream/Intro_Dream.md)
+
+[雏燕](Dream/190713_雏燕.md)
+
+[无人机](Dream/190629_无人机.md)
+
+[开学摸底测试](Dream/190706_开学摸底测试.md)
 
 [教汉字](Dream/190219_教汉字.md)
 
@@ -25,3 +31,9 @@
 [极其变态的犯罪悬疑梦](Dream/181123_极其变态的犯罪悬疑梦.md)
 
 [巨梦](Dream/181123_巨梦.md)
+
+[养蜗牛的美女<font color="red">new</font>](Dream/180903_养蜗牛的美女.md)
+
+[未寄出的明信片<font color="red">new</font>](Dream/180902_未寄出的明信片.md)
+
+[水洗三明治<font color="red">new</font>](Dream/180829_水洗三明治.md)

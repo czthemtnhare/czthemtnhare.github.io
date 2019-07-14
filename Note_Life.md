@@ -2,6 +2,10 @@
 
 <p align="right"><I>Last update: 19/06/22</I></p>
 
+[Intro](Life/Intro_Life.md)
+
+[早起小记](Life/190622_早起小记.md)
+
 [打包](Life/190620_打包.md)
 
 [西湖牛肉羹](Life/190319_西湖牛肉羹.md)
